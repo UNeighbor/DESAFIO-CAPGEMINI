@@ -1,4 +1,3 @@
-# Questoes---Desafio-Capgemini
 Questões - Desafio Capgemini
 -----
 
